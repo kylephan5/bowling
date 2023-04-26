@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/LobbyScene.unity
     guid: 2ebee177eb194474ba0ff2808bb0b275
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/DuskBowling.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/DayBowling.unity
+    guid: 5d9c2252486c34dd8babeb5544d7ddf0
+  - enabled: 1
+    path: Assets/Scenes/NightBowling.unity
+    guid: b38d8689e0b5141f88056c3a35750904
   m_configObjects: {}
